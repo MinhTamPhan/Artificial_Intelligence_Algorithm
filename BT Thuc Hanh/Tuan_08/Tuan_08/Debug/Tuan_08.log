@@ -1,0 +1,8 @@
+﻿  Main.cpp
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\tuan_08\tuan_08\main.cpp(41): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\tuan_08\tuan_08\main.cpp(42): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\tuan_08\tuan_08\clause.h(23): warning C4715: 'CClause::Check': not all control paths return a value
+  Tuan_08.vcxproj -> E:\HKI_2016_2017\TriTueNhanTao_TMNT\BT Thuc Hanh\Tuan_08\Debug\Tuan_08.exe
+  Tuan_08.vcxproj -> E:\HKI_2016_2017\TriTueNhanTao_TMNT\BT Thuc Hanh\Tuan_08\Debug\Tuan_08.pdb (Full PDB)

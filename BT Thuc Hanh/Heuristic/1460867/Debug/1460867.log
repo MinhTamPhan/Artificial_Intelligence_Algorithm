@@ -1,0 +1,19 @@
+﻿  Pacman.cpp
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\heuristic\1460867\pacman.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\heuristic\1460867\pacman.h(99): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\heuristic\1460867\pacman.h(101): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\heuristic\1460867\pacman.cpp(76): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\heuristic\1460867\pacman.cpp(80): warning C4018: '<': signed/unsigned mismatch
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\heuristic\1460867\pacman.cpp(86): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\heuristic\1460867\pacman.cpp(107): warning C4018: '<': signed/unsigned mismatch
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\heuristic\1460867\pacman.cpp(109): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\heuristic\1460867\pacman.cpp(96): warning C4715: 'CPacman::runAStar': not all control paths return a value
+  Compiling...
+  main.cpp
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\heuristic\1460867\pacman.h(23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\heuristic\1460867\pacman.h(99): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\heuristic\1460867\pacman.h(101): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  1460867.vcxproj -> E:\HKI_2016_2017\TriTueNhanTao_TMNT\BT Thuc Hanh\Heuristic\Debug\1460867.exe
+  1460867.vcxproj -> E:\HKI_2016_2017\TriTueNhanTao_TMNT\BT Thuc Hanh\Heuristic\Debug\1460867.pdb (Full PDB)

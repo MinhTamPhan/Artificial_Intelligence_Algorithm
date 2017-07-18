@@ -1,0 +1,25 @@
+6 4
+16 23
+0 1 Nguyen_Tri_Phuong 1
+0 2 Ly_Thai_To 0.8
+0 3 Thanh_Thai 1
+0 4 3_Thang_2 1.6
+0 5 3_Thang_2 1.2
+1 2 Ngo_Gia_Tu 1
+1 7 Nguyen_Chi_Thanh 1
+1 8 Nguyen_Chi_Thanh 0.6
+2 9 Ly_Thai_To 0.5
+3 6 Lu_Gia 0.9
+3 12 Lu_Gia 0.5
+4 12 CMT8 1
+4 13 CMT8 1.2
+5 6 Ly_Thuong_Kiet 0.6
+5 7 Ly_Thuong_Kiet 0.4
+7 11 Ly_Thuong_Kiet 0.8
+8 9 Hung_Vuong 0.6
+9 10 Nguyen_Van_Cu 0.8
+9 13 Nguyen_Thi_Minh_Khai 1.3
+10 11 An_Duong_Vuong 2.3
+10 14 Nguyen_Van_Cu 0.3
+13 15 CMT8 1.4
+14 15 Tran_Hung_Dao 1.8

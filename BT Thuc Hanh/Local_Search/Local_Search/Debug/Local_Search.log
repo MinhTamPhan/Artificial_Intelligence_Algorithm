@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\local_search\local_search\source.cpp(92): warning C4018: '<': signed/unsigned mismatch
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\local_search\local_search\source.cpp(112): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Local_Search.vcxproj -> E:\HKI_2016_2017\TriTueNhanTao_TMNT\BT Thuc Hanh\Local_Search\Debug\Local_Search.exe
+  Local_Search.vcxproj -> E:\HKI_2016_2017\TriTueNhanTao_TMNT\BT Thuc Hanh\Local_Search\Debug\Local_Search.pdb (Full PDB)

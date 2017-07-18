@@ -1,0 +1,9 @@
+﻿  NQueen.cpp
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\csv\csv\nqueen.cpp(40): warning C4018: '<': signed/unsigned mismatch
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\csv\csv\nqueen.cpp(42): warning C4018: '<': signed/unsigned mismatch
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\csv\csv\nqueen.cpp(60): warning C4018: '<': signed/unsigned mismatch
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\csv\csv\nqueen.cpp(103): warning C4018: '<': signed/unsigned mismatch
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\csv\csv\nqueen.cpp(105): warning C4018: '<': signed/unsigned mismatch
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\csv\csv\nqueen.cpp(141): warning C4018: '<': signed/unsigned mismatch
+  CSV.vcxproj -> E:\HKI_2016_2017\TriTueNhanTao_TMNT\BT Thuc Hanh\CSV\Debug\CSV.exe
+  CSV.vcxproj -> E:\HKI_2016_2017\TriTueNhanTao_TMNT\BT Thuc Hanh\CSV\Debug\CSV.pdb (Full PDB)

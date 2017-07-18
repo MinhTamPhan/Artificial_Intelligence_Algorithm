@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\tong_hop\ucs\main.cpp(27): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\tong_hop\ucs\main.cpp(28): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+  UCS.vcxproj -> E:\HKI_2016_2017\TriTueNhanTao_TMNT\BT Thuc Hanh\Tong_Hop\Debug\UCS.exe
+  UCS.vcxproj -> E:\HKI_2016_2017\TriTueNhanTao_TMNT\BT Thuc Hanh\Tong_Hop\Debug\UCS.pdb (Full PDB)

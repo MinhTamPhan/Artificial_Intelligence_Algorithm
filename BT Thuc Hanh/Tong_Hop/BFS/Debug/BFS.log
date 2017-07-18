@@ -1,0 +1,10 @@
+﻿  MyGraph.cpp
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\tong_hop\bfs\mygraph.cpp(57): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\tong_hop\bfs\main.cpp(17): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+e:\hki_2016_2017\trituenhantao_tmnt\bt thuc hanh\tong_hop\bfs\main.cpp(20): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+  Generating Code...
+  BFS.vcxproj -> E:\HKI_2016_2017\TriTueNhanTao_TMNT\BT Thuc Hanh\Tong_Hop\Debug\BFS.exe
+  BFS.vcxproj -> E:\HKI_2016_2017\TriTueNhanTao_TMNT\BT Thuc Hanh\Tong_Hop\Debug\BFS.pdb (Full PDB)
